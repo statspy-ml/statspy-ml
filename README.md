@@ -3,7 +3,7 @@
 - 🤖 I'm working on machine learning and statistics projects
 - 📊 I'm experimenting with data science and AI applications
 - 🐍 Python enthusiast focusing on statistical modeling
-- 📈 Currently exploring
-- 🎯 Ask me about statistics, ML, or data visualization
-- 📫 How to reach me:
+- 📈 Currently learning Rust and Go most for API development
+- 🎯 Ask me about statistics, ML, GenAI or data visualization
+- 📫 How to reach me: <rodrigo@statsai.org>
 - ⚡ Fun fact:
