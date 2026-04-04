@@ -5,5 +5,5 @@
 - 🐍 Python enthusiast focusing on statistical modeling
 - 📈 Currently learning Rust and Go most for API development
 - 🎯 Ask me about statistics, ML, GenAI or data visualization
-- 📫 How to reach me: <rodrigo@statsai.org>
-- ⚡ Fun fact:
+- 📫 How to reach me: <rodrigo.pp.toledo@gmail.com>
+- ⚡ Current Project: pyvulscan - Simple Vulnerability Scan using OSV API - [https://github.com/statspyml/pyau]
