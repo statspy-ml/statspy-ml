@@ -7,4 +7,4 @@
 - 🎯 Ask me about statistics, ML, GenAI or data visualization
 - 📫 How to reach me: <rodrigo.pp.toledo@gmail.com>
 - ⚡ Current Project 1: pyvulscan - Simple Vulnerability Scan using OSV API - [pyau](https://github.com/statspyml/pyau)
-- ⚡ Current Project 2: lastsignal - Simple 2D intergalactic game using Bevy - [lastsignal](https://github.com/statspyml/lastsignal)
+- ⚡ Current Project 2: lastsignal - Simple 2D intergalactic game using Bevy - [lastsignal](https://github.com/statspy-ml/lastsignal)
